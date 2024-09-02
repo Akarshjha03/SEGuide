@@ -1,4 +1,4 @@
-# SEngineerHub: Software Engineering Repository
+# SEGuide: Software Engineering Repository
 
 Welcome to **SEngineerHub**, a comprehensive repository designed to complement your understanding and application of software engineering principles, particularly in a lab environment. This repository is aligned with the **Software Engineering** course, aimed at providing hands-on experience in software development processes, design methodologies, and project management.
 
